@@ -1,9 +1,11 @@
 Timestamp,Level,Message
+"2024-04-22 09:15:12","ERROR","Database connection failed"
+"2024-04-22 09:16:12","WARNING","Memory usage high"
 "2024-04-22 09:05:12","ERROR","Disk space low on server01"
 "2024-04-22 09:06:12","WARNING","CPU usage high on server02"
 "2024-04-22 09:10:12","ERROR","Network timeout on server03"
 
 Summary
 Level,Count
-"ERROR",2
-"WARNING",1
+"ERROR",3
+"WARNING",2
