@@ -1,0 +1,5 @@
+[2024-04-22 09:03:12] INFO: Backup completed successfully
+[2024-04-22 09:05:12] ERROR: Disk space low on server01
+[2024-04-22 09:06:12] WARNING: CPU usage high on server02
+[2024-04-22 09:07:12] INFO: User login successful
+[2024-04-22 09:10:12] ERROR: Network timeout on server03
